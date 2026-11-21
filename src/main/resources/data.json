@@ -1,0 +1,22 @@
+[
+  {"code": "INB101", "title": "Programming Fundamentals", "faculty": "Informatics", "credits": 6, "semester": 1,
+   "students": [{"neptun": "ABC123", "name": "Kata Bodor", "grade": 5}, {"neptun": "DEF456", "name": "Levente Csizmadia", "grade": 3}, {"neptun": "GHI789", "name": "Mira Domokos", "grade": 4}]},
+  {"code": "INB215", "title": "Databases", "faculty": "Informatics", "credits": 5, "semester": 3,
+   "students": [{"neptun": "JKL012", "name": "Nora Erdei", "grade": 2}, {"neptun": "MNO345", "name": "Oszkar Fazekas", "grade": 5}]},
+  {"code": "TTM110", "title": "Calculus I", "faculty": "Science", "credits": 6, "semester": 1,
+   "students": [{"neptun": "PQR678", "name": "Panna Gergely", "grade": 4}, {"neptun": "STU901", "name": "Rudolf Hajdu", "grade": 1}, {"neptun": "VWX234", "name": "Sara Ignacz", "grade": 3}, {"neptun": "YZA567", "name": "Tibor Jonas", "grade": 5}]},
+  {"code": "TTF205", "title": "Thermodynamics", "faculty": "Science", "credits": 4, "semester": 4,
+   "students": [{"neptun": "BCD890", "name": "Ugne Kardos", "grade": 4}]},
+  {"code": "MKE120", "title": "Engineering Mechanics", "faculty": "Engineering", "credits": 5, "semester": 2,
+   "students": [{"neptun": "EFG123", "name": "Vilmos Lazar", "grade": 2}, {"neptun": "HIJ456", "name": "Zsofia Major", "grade": 4}]},
+  {"code": "MKE310", "title": "Control Systems", "faculty": "Engineering", "credits": 6, "semester": 5,
+   "students": []},
+  {"code": "GTK101", "title": "Microeconomics", "faculty": "Economics", "credits": 4, "semester": 1,
+   "students": [{"neptun": "KLM789", "name": "Adel Nyiri", "grade": 5}, {"neptun": "NOP012", "name": "Barna Orban", "grade": 3}]},
+  {"code": "GTK230", "title": "Corporate Finance", "faculty": "Economics", "credits": 5, "semester": 4,
+   "students": [{"neptun": "QRS345", "name": "Cintia Papp", "grade": 4}, {"neptun": "TUV678", "name": "Dominik Rajki", "grade": 2}, {"neptun": "WXY901", "name": "Emma Sarkozi", "grade": 5}]},
+  {"code": "BTK105", "title": "Introduction to Philosophy", "faculty": "Humanities", "credits": 3, "semester": 2,
+   "students": [{"neptun": "ZAB234", "name": "Fruzsina Tamas", "grade": 3}]},
+  {"code": "BTK240", "title": "Modern European History", "faculty": "Humanities", "credits": 4, "semester": 3,
+   "students": [{"neptun": "CDE567", "name": "Gyula Vass", "grade": 4}, {"neptun": "FGH890", "name": "Hedvig Zold", "grade": 2}]}
+]
